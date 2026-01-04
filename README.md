@@ -1,10 +1,9 @@
 # Calculator Project for Data Analysis 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-A robust Python-based calculator tool designed specifically for data analysis workflows. This project demonstrates modular coding, arithmetic logic, and comprehensive documentation.
+A robust **Python** calculator tool designed specifically for data analysis workflows. This project demonstrates modular coding, arithmetic logic, and comprehensive documentation.
 
 ---
 
@@ -27,17 +26,16 @@ The formal documentation included in this repository:
 ---
 
 ##  Key Features
-* **Arithmetic Logic:** Custom functions to handle mathematical operations.
+* **Python Logic:** Custom functions to handle mathematical operations.
 * **Error Handling:** Robust mechanisms to prevent crashes (e.g., division by zero).
 * **Data Analysis Focus:** Designed to assist in quick numerical processing.
-* **Interactive Interface:** Built using Jupyter Notebooks for immediate feedback.
 
 ---
 
 ##  Repository Structure
 | File / Folder | Description |
 | :--- | :--- |
-| **`Calculator App/`** | Contains the source code (`.ipynb` files). |
+| **`Calculator App/`** | Contains the Python source code (`.ipynb`). |
 | **`calculator report.pdf`** | The formal project analysis and documentation. |
 | **`Assets/`** | Screenshots and project images. |
 
@@ -46,8 +44,8 @@ The formal documentation included in this repository:
 ##  How to Run
 1.  Clone or download this repository.
 2.  Navigate to the `Calculator App` folder.
-3.  Open the notebook in **VS Code** or **Jupyter**.
-4.  Run all cells to start the calculator.
+3.  Open the file in **VS Code** or **Jupyter Notebook**.
+4.  Run the Python cells to start the calculator.
 
 ---
 
