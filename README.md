@@ -1,4 +1,4 @@
-# Calculator Project for Data Analysis 🧮
+# Calculator Project for Data Analysis 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -8,13 +8,13 @@ A robust Python-based calculator tool designed specifically for data analysis wo
 
 ---
 
-## 📄 Documentation
+##  Documentation
 **[Click here to read the full Project Report (PDF) ↗](./calculator%20report.pdf)**
 *Contains detailed analysis, logic flowcharts, and testing results.*
 
 ---
 
-## 📸 Project Previews
+##  Project Previews
 
 ### 1. Analysis Output
 A demonstration of the calculator performing operations:
@@ -26,7 +26,7 @@ The formal documentation included in this repository:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 * **Arithmetic Logic:** Custom functions to handle mathematical operations.
 * **Error Handling:** Robust mechanisms to prevent crashes (e.g., division by zero).
 * **Data Analysis Focus:** Designed to assist in quick numerical processing.
@@ -34,7 +34,7 @@ The formal documentation included in this repository:
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 | File / Folder | Description |
 | :--- | :--- |
 | **`Calculator App/`** | Contains the source code (`.ipynb` files). |
@@ -43,7 +43,7 @@ The formal documentation included in this repository:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1.  Clone or download this repository.
 2.  Navigate to the `Calculator App` folder.
 3.  Open the notebook in **VS Code** or **Jupyter**.
@@ -51,6 +51,6 @@ The formal documentation included in this repository:
 
 ---
 
-## 👤 Author
+##  Author
 **Mahima Gupta**
 * *Developer & Analyst*
