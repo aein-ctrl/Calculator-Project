@@ -35,7 +35,7 @@ The formal documentation included in this repository:
 ##  Repository Structure
 | File / Folder | Description |
 | :--- | :--- |
-| **`Calculator App/`** | Contains the Python source code (`.ipynb`). |
+|* **calculator.ipynb**: The main Python source code.|
 | **`calculator report.pdf`** | The formal project analysis and documentation. |
 | **`Assets/`** | Screenshots and project images. |
 
@@ -43,9 +43,8 @@ The formal documentation included in this repository:
 
 ##  How to Run
 1.  Clone or download this repository.
-2.  Navigate to the `Calculator App` folder.
-3.  Open the file in **VS Code** or **Jupyter Notebook**.
-4.  Run the Python cells to start the calculator.
+2.  Open the file in **VS Code** or **Jupyter Notebook**.
+3.  Run the Python cells to start the calculator.
 
 ---
 
