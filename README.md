@@ -35,7 +35,7 @@ The formal documentation included in this repository:
 ##  Repository Structure
 | File / Folder | Description |
 | :--- | :--- |
-|* **calculator.ipynb** | The main Python source code.|
+| **calculator.ipynb** | The main Python source code.|
 | **`calculator report.pdf`** | The formal project analysis and documentation. |
 | **`Assets/`** | Screenshots and project images. |
 
